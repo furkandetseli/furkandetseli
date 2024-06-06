@@ -1,10 +1,5 @@
-## Hi there 👋
-
-<!--
-**furkandetseli/furkandetseli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi there 👋 
 
 - 🔭 I’m currently working on JavaScript, CSS3, HTML5, Python
 - 🌱 I’m currently learning C#
--->
+
