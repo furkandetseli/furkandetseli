@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on JavaScript, Python
+- 🔭 I’m currently working on JavaScript, CSS3, HTML5, Python
 - 🌱 I’m currently learning C#
 -->
