@@ -64,7 +64,7 @@ I'm a Software Developer with a passion for web and mobile development. I earned
 
 ## 🌐 Languages
 - Turkish (Native)
-- English (B1 Proficiency)
+- English (A2 Proficiency)
 
 ---
 ⭐️ From [Furkan Detseli](https://github.com/furkandetseli)
