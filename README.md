@@ -53,6 +53,11 @@ I'm a Software Developer with a passion for web and mobile development. I earned
 - Synchronized visuals and audio effects
 - Optimized performance using Python's data processing capabilities
 
+## 📊 GitHub Stats & Top Languages
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=furkandetseli&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkandetseli&layout=compact&langs_count=7&theme=radical"/>
+
+
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-detseli/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:furkan_detseli@hotmail.com)
