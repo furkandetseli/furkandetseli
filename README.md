@@ -55,7 +55,7 @@ I'm a Software Developer with a passion for web and mobile development. I earned
 
 ## 📊 GitHub Stats & Top Languages
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=furkandetseli&show_icons=true&theme=white&include_all_commits=true&count_private=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkandetseli&layout=compact&langs_count=7&theme=white"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkandetseli&layout=compact&langs_count=7&theme=white&count_private=true"/>
 
 
 ## 📫 How to reach me
