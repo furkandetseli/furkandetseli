@@ -5,7 +5,7 @@ I'm a Software Developer with a passion for web and mobile development. I earned
 
 ### 🎯 Current Focus
 - 🔭 Working on JavaScript, CSS3, HTML5, and Python projects
-- 🌱 Currently learning C#
+- 🌱 Currently learning Java
 - 💻 Developing REST APIs and integrating new features into web applications
 
 ## 🛠️ Tech Stack
