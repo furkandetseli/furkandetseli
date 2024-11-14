@@ -62,4 +62,4 @@ I'm a Software Developer with a passion for web and mobile development. I earned
 - English (B1 Proficiency)
 
 ---
-⭐️ From [Furkan Detseli](https://github.com/YourGitHubUsername)
+⭐️ From [Furkan Detseli](https://github.com/furkandetseli)
